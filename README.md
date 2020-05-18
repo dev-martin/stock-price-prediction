@@ -1,4 +1,5 @@
 # stock-price-prediction
+![Image Description](/img-description.jpeg)
 For many years, people have tried to predict future earnings in the stock market. The stock market has been
 considered unpredictable and due to its efficient nature, argued that future performance cannot be predicted
 based on past performance. This research used various machine learning techniques to predict future prices of
